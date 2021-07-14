@@ -1,0 +1,6 @@
+manager/ApplicationManager.java
+ manager.ApplicationManager
+test/LoginTest.java
+ test.LoginTest
+test/TestBase.java
+ test.TestBase
